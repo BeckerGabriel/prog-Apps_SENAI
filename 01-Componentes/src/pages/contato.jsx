@@ -1,6 +1,4 @@
-import React from 'react'
-import './paginas.css'
-
+import './Paginas.css'
 function Contato() {
     return (
         <div className={'cont-contato'}>
@@ -8,6 +6,5 @@ function Contato() {
         </div>
     )
 }
-
 
 export default Contato

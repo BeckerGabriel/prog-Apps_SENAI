@@ -1,11 +1,10 @@
-import React from 'react'
-import './paginas.css'
-
+import './Paginas.css'
 function Produtos() {
-  return (
-    <div className={'aura'}>produtos</div>
-  )
+    return (
+        <div className={'cont-produtos'}>
+            <h1>Produtos</h1>
+        </div>
+    )
 }
-
 
 export default Produtos

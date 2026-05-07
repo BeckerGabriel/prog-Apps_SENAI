@@ -1,16 +1,12 @@
 .cont-home{
-    background-color: rgb(180, 29, 214);
+    background-color: blue;
     flex: 1;
 }
 .cont-produtos{
-    background-color: rgb(19, 160, 118);
+    background-color: blueviolet;
     flex: 1;
 }
 .cont-contato{
-    background-color: rgb(104, 122, 0);
-    flex: 1;
-}
-.aura{
-    background-color: red;
+    background-color: rgb(64, 226, 43);
     flex: 1;
 }
